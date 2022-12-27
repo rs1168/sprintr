@@ -1,2 +1,2 @@
 # Sprintr
-A program to prepare Sprint Cell-Site dumps for QGIS
+A program to prepare Sprint Cell-Site dumps for GIS analysis
